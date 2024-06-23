@@ -7,9 +7,6 @@ This project involves refactoring the codebase of a marketing agency website to 
 ## Preview
 ![Website Preview](assets/images/01-html-css-git-homework-demo.png)
 
-## Deployed Application
-[View the deployed application](http://your-deployed-application-url.com)
-
 ## Features
 - Semantic HTML elements for better structure and readability.
 - Accessible alt attributes for all images.
