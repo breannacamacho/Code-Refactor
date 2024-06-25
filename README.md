@@ -2,7 +2,7 @@
 Code Refactor: Improved the website's HTML and CSS to enhance accessibility and SEO.
 
 ## Description
-This project involves refactoring the codebase of a marketing agency website to improve accessibility and optimize it for search engines. The refactoring process includes the use of semantic HTML elements, logical document structure, accessible image alt attributes, properly ordered heading elements, and a concise, descriptive title.
+This project involves refactoring the codebase of a marketing agency website to improve accessibility and optimize it for search engines. The refactoring process includes the use of semantic HTML elements, logical document structure, accessible image alt attributes, and properly ordered heading elements.
 
 ## Preview
 ![Website Preview](assets/images/01-html-css-git-homework-demo.png)
